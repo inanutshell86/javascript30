@@ -1,3 +1,3 @@
-# JavaScript30
-1. JavaScript Drum Kit
-2. CSS + JS Clock
+# CSS + JS clock
+1. Fundamentals
+2. Friends with CSS
