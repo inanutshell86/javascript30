@@ -4,3 +4,4 @@
 3. Playing with CSS variables and JS
 4. Array Cardio Day 1
 5. Flex Panel Gallery
+6. Ajax Type Ahead
