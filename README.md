@@ -1,7 +1,2 @@
-# JavaScript30
-1. JavaScript Drum Kit
-2. CSS + JS Clock
-3. Playing with CSS variables and JS
-4. Array Cardio Day 1
-5. Flex Panel Gallery
-6. Ajax Type Ahead
+# Ajax Type Ahead
+1. DOM & Interface
