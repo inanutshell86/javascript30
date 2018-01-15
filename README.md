@@ -9,3 +9,4 @@
 8. Fun with HTML5 canvas
 9. Dev Tools Domination
 10. Hold Shift To Check Multiple Checkboxes
+11. Custom HTML5 Video Player
