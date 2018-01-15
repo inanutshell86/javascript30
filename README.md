@@ -10,3 +10,4 @@
 9. Dev Tools Domination
 10. Hold Shift To Check Multiple Checkboxes
 11. Custom HTML5 Video Player
+12. Key Sequence Detection (Konami code)
