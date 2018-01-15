@@ -1,0 +1,9 @@
+html,
+body {
+  margin: 0px;
+}
+
+#draw {
+  width: 800px;
+  height: 800px;
+}
