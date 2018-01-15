@@ -8,3 +8,4 @@
 7. Array Cardio Day 2
 8. Fun with HTML5 canvas
 9. Dev Tools Domination
+10. Hold Shift To Check Multiple Checkboxes
