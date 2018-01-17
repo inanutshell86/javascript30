@@ -19,3 +19,4 @@
 18. Tally String Times With Reduce
 19. Unreal Webcam Fun
 20. Native Speech Recognition
+21. Geolocation Based Speedometer And Compass
