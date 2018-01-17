@@ -21,3 +21,4 @@
 20. Native Speech Recognition
 21. Geolocation Based Speedometer And Compass
 22. Follow Along Links
+23. Speech Synthesis
