@@ -23,3 +23,4 @@
 22. Follow Along Links
 23. Speech Synthesis
 24. Sticky Nav
+25. Event Capture, Propagation, Bubbling and Once
