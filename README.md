@@ -22,3 +22,4 @@
 21. Geolocation Based Speedometer And Compass
 22. Follow Along Links
 23. Speech Synthesis
+24. Sticky Nav
