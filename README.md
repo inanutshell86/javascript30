@@ -27,3 +27,4 @@
 26. Stripe Follow Along Dropdown
 27. Click and Drag to Scroll
 28. Video Speed Controller UI
+29. Countdown Clock
