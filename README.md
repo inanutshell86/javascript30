@@ -26,3 +26,4 @@
 25. Event Capture, Propagation, Bubbling and Once
 26. Stripe Follow Along Dropdown
 27. Click and Drag to Scroll
+28. Video Speed Controller UI
